@@ -27,7 +27,3 @@ This project combines two key tools to help job seekers prepare effectively:
 - PDF parsing libraries (e.g., PyPDF2, pdfminer)
 - Optional: Streamlit or Flask for frontend interface (if applicable)
 
----
-
-## 📂 File Structure
-
